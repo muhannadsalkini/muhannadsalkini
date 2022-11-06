@@ -23,8 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Get in touch: 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:mohanad.salkini@gmail.com)
-[![Website](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://muhannad.salkini.me)
+[![Website](https://img.shields.io/badge/--email?label=website&logo=Website&style=social)](https://muhannad.salkini.me)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhannad-salkini-1971751a5)
+[![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/muhannad.salkini)
 
 
 ### Languages and Tools:
@@ -48,10 +49,10 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 
-[![Website](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://muhannad.salkini.me)
+<!--[![Website](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://muhannad.salkini.me)
 [![Twitter](https://img.shields.io/badge/--email?label=Twitter&logo=&style=social)](https://twitter.com/muhannadsalkini)
 [![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=&style=social)](https://www.instagram.com/muhannad.salkini)
-[![LinkedIn](https://img.shields.io/badge/--email?label=LinkedIn&logo=&style=social)](https://linkedin.com/in/muhannad-salkini-1971751a5)
+[![LinkedIn](https://img.shields.io/badge/--email?label=LinkedIn&logo=&style=social)](https://linkedin.com/in/muhannad-salkini-1971751a5)-->
 
 
 [website]: https://muhannad.salkini.me
