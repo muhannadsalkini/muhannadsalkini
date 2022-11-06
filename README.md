@@ -48,6 +48,12 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 
+[![Website](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://muhannad.salkini.me)
+[!Twitter](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://twitter.com/muhannadsalkini)
+[![Instagram](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://www.instagram.com/muhannad.salkini)
+[![LinkedIn](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://linkedin.com/in/muhannad-salkini-1971751a5)
+
+
 [website]: https://muhannad.salkini.me
 [twitter]: https://twitter.com/muhannadsalkini
 <!--[youtube]: https://youtube.com/codeSTACKr-->
