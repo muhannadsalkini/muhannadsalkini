@@ -9,7 +9,7 @@ muhannadsalkini/muhannadsalkini is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### 👋 Hi, I’m Muhannad Salkini. Welcome to my profile
+### 👋 Hi, I’m Muhannad Salkini. Welcome to my profile 🤗
 
  
 
@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 - Working with [.NET](https://github.com/topics/al-language)
 - Working with [C#](https://github.com/topics/al-language)
 - Working with [C++](https://github.com/topics/al-language)
-- 
+- Learning 😀
+
 <!--- - Working with [Dynamics AL](https://github.com/topics/al-language)
 - Working with [Android](https://github.com/topics/al-language)
 - Working with [PHP](https://github.com/topics/android)
