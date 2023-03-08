@@ -9,14 +9,16 @@ muhannadsalkini/muhannadsalkini is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### 👋 Hi, I’m Muhannad Salkini. Welcome to my profile 🤗
+## 👋 Hi, I’m Muhannad Salkini. Welcome to my profile 🤗
 
  
 
-## 🌱 I'm a Computer Engineering student; currently doing the following 
+### 🌱 I'm a Software Developer
+### 👨‍💻 Currently doing the following: 
 - Working on [Machine Learning](https://github.com/topics/al-language)
 - Working with [Python](https://github.com/topics/al-language)
 - Working with [.NET](https://github.com/topics/al-language)
+- Working with [C#](https://github.com/topics/al-language)
 - Learning 😀
 
 <!--- - Working with [Dynamics AL](https://github.com/topics/al-language)
