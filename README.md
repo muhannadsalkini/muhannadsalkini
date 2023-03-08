@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
  
 
 ## 🌱 I'm a Computer Engineering student; currently doing the following 
+- Working on [Machine Learning](https://github.com/topics/al-language)
+- Working with [Python](https://github.com/topics/al-language)
 - Working with [.NET](https://github.com/topics/al-language)
-- Working with [C#](https://github.com/topics/al-language)
-- Working with [C++](https://github.com/topics/al-language)
 - Learning 😀
 
 <!--- - Working with [Dynamics AL](https://github.com/topics/al-language)
@@ -65,8 +65,11 @@ You can click the Preview link to take a look at your changes.
 
 
 [website]: https://muhannad.salkini.me
-[twitter]: https://twitter.com/muhannadsalkini
-<!--[youtube]: https://youtube.com/codeSTACKr-->
-[instagram]: https://www.instagram.com/muhannad.salkini
 [linkedin]: https://linkedin.com/in/muhannad-salkini-1971751a5
+[instagram]: https://www.instagram.com/muhannad.salkini
+[twitter]: https://twitter.com/muhannadsalkini
+[facebook]: https://www.facebook.com/muhannadsalkini02/
+[youtube]: https://www.youtube.com/@muhannad.salkini
+
+
 
