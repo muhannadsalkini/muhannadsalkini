@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
  
 
-### 🌱 I'm a  [Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&width=435&height=27&lines=Web+Developer;Mobile+Developer;Freelancer)
+### 🌱 I'm a  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&width=435&height=27&lines=Web+Developer;Mobile+Developer;Freelancer)
 
 ### 👨‍💻 Currently doing the following: 
 - Working on [Web Development](/)
