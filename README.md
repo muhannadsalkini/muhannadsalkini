@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌱 I'm a Software Developer
 ### 👨‍💻 Currently doing the following: 
-- Working on [Machine Learning](https://github.com/topics/al-language)
-- Working with [Python](https://github.com/topics/al-language)
-- Working with [.NET](https://github.com/topics/al-language)
-- Working with [C#](https://github.com/topics/al-language)
+- Working on [Web Development](/)
+- Working with [JavaScript](https://github.com/topics/al-language)
+- Working with [React](https://react.dev/)
+- Working with [NodeJS](https://github.com/topics/al-language)
+- Working with [ExpressJS](https://github.com/topics/al-language)
 - Learning 😀
 
 <!--- - Working with [Dynamics AL](https://github.com/topics/al-language)
