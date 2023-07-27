@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
  
 
-### 🌱 I'm a Software Developer
+### 🌱 I'm a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&width=435&lines=Web+Developer;Mobile+Developer;Freelancer" alt="Typing SVG" /></a>
+
 ### 👨‍💻 Currently doing the following: 
 - Working on [Web Development](/)
 - Working with [JavaScript](https://github.com/topics/al-language)
