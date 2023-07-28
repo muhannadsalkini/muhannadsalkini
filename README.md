@@ -38,25 +38,25 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 💻 Languages and Tools:
-<img align="left" alt="Visual Studio" width="26px" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:6px;" />
-<img align="left" alt="laravel" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt=".net" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="Mysql" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="MSsql" width="26px" height="26px" src="./microsoftsqlserver-plain-wordmark.svg" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="Oracle" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="C#" width="26px" height="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="PHP" width="26px" height="26px" src="https://pngimg.com/uploads/php/php_PNG25.png" style="padding-right:6px; padding-top:6px;" />
-<img align="left" alt="HTML5" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-top:6px;" />
-<img align="left" alt="CSS3" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-top:6px;" />
-<img align="left" alt="JavaScript" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; padding-top:6px;" />
-<img align="left" alt="React" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; padding-top:6px;" />
-<img align="left" alt="Git" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; padding-top:6px;"  />
-<img align="left" alt="Githup" width="26px" height="26px" src="./github-original.svg" style="padding-right:10px padding-top:6px;"  />
-<img align="left" alt="Tailwind" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  style="padding-right:10px; padding-top:6px;" />
+<img align="left" alt="Visual Studio" width="30px" height="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="Visual Studio Code" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:6px;" />
+<img align="left" alt="laravel" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt=".net" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="Mysql" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="MSsql" width="30px" height="30px" src="./microsoftsqlserver-plain-wordmark.svg" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="Oracle" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="C#" width="30px" height="30px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="PHP" width="30px" height="30px" src="https://pngimg.com/uploads/php/php_PNG25.png" style="padding-right:6px; padding-top:6px;" />
+<img align="left" alt="HTML5" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-top:6px;" />
+<img align="left" alt="CSS3" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-top:6px;" />
+<img align="left" alt="JavaScript" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; padding-top:6px;" />
+<img align="left" alt="React" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; padding-top:6px;" />
+<img align="left" alt="Git" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; padding-top:6px;"  />
+<img align="left" alt="Githup" width="30px" height="30px" src="./github-original.svg" style="padding-right:10px padding-top:6px;"  />
+<img align="left" alt="Tailwind" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  style="padding-right:10px; padding-top:6px;" />
 
 
-<!--<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
+<!--<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
 
 <br />
 <br />
