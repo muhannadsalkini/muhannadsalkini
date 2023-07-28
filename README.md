@@ -38,22 +38,22 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 💻 Languages and Tools:
-<img alt="Visual Studio" width="30px" height="36px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>
-<img alt="Visual Studio Code" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img alt="laravel" width="30px" height="36px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"  />
-<img alt=".net" width="30px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"  />
-<img alt="Mysql" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img alt="MSsql" width="30px" height="36px" src="./microsoftsqlserver-plain-wordmark.svg"/>
-<img alt="Oracle" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-<img alt="C#" width="30px" height="36px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
-<img alt="PHP" width="30px" height="36px" src="https://pngimg.com/uploads/php/php_PNG25.png"/>
-<img alt="HTML5" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="React" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Git" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="Githup" width="30px" height="36px" src="./github-original.svg"/>
-<img alt="Tailwind" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="left" alt="Visual Studio" width="30px" height="36px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>
+<img align="left" alt="Visual Studio Code" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="laravel" width="30px" height="36px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"  />
+<img align="left" alt=".net" width="30px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"  />
+<img align="left" alt="Mysql" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="MSsql" width="30px" height="36px" src="./microsoftsqlserver-plain-wordmark.svg"/>
+<img align="left" alt="Oracle" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="C#" width="30px" height="36px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
+<img align="left" alt="PHP" width="30px" height="36px" src="https://pngimg.com/uploads/php/php_PNG25.png"/>
+<img align="left" alt="HTML5" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Git" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Githup" width="30px" height="36px" src="./github-original.svg"/>
+<img align="left" alt="Tailwind" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 
 <!--<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
 
