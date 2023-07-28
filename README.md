@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 Hi, I’m Muhannad Salkini. Welcome to my profile 🤗
 
- 
+  I am currently pursuing a degree in Computer Engineering while also working as a software developer and freelancer. My expertise lies in website development, building, and customization, where I strive to create seamless and user-friendly experiences for my clients.
 
 ### 🌱 I'm a <img style="vertical-align:-webkit-baseline-middle" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&width=190&height=27&lines=Web+Developer;Mobile+Developer;Freelancer" alt="Typing SVG" />
 
@@ -36,11 +36,14 @@ You can click the Preview link to take a look at your changes.
 [![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/muhannad.salkini)
 
 
-### Languages and Tools:
+## 💻 Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="padding-right:6px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:6px;" />
 <img align="left" alt=".net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" style="padding-right:6px;" />
+<img align="left" alt=".net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:6px;" />
+<img align="left" alt=".net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:6px;" />
+<img align="left" alt="Oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:6px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:6px;" />
 <img align="left" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/php_PNG25.png" style="padding-right:6px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
