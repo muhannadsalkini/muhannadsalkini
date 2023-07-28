@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Visual Studio" width="30px" height="36px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>
 <img align="left" alt="Visual Studio Code" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="laravel" width="30px" height="36px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"  />
-<img align="left" alt=".net" width="30px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"  />
+<img align="left" alt=".net" width="30px" height="36px" src="./net.svg"  />
 <img align="left" alt="Mysql" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="MSsql" width="30px" height="36px" src="./microsoftsqlserver-plain-wordmark.svg"/>
 <img align="left" alt="Oracle" width="30px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
