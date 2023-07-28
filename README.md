@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌱 I'm a <img style="vertical-align:-webkit-baseline-middle" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&width=190&height=27&lines=Web+Developer;Mobile+Developer;Freelancer" alt="Typing SVG" />
 
-  I am currently pursuing a degree in Computer Engineering while also working as a software developer and freelancer. My expertise lies in website development, building, and customization, where I strive to create seamless and user-friendly experiences for my clients.
+<p>I am currently pursuing a degree in Computer Engineering while also working as a software developer and freelancer. My expertise lies in website development, building, and customization, where I strive to create seamless and user-friendly experiences for my clients.</p>
+
 
 ### 👨‍💻 Currently doing the following: 
 - Working on [Web Development](/)
