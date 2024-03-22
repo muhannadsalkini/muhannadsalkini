@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 ### 👨‍💻 Currently doing the following: 
 - Working on [Web Development](/)
 - Working with [TypeScript](https://github.com/topics/al-language)
-- Working with [React](https://react.dev/)
 - Working with [NodeJS](https://github.com/topics/al-language)
 - Working with [ExpressJS](https://github.com/topics/al-language)
+- Working with [React](https://react.dev/)
 - Learning 😀
 
 <!--- - Working with [Dynamics AL](https://github.com/topics/al-language)
