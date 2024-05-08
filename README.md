@@ -9,13 +9,13 @@ muhannadsalkini/muhannadsalkini is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-## 👋 Hi, I’m Muhannad. Welcome to my profile 🤗
+## 👋 Hi, I’m Muhannad.
 
 <p align="center">
 <img style="vertical-align:middle" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&center=true&vCenter=true&pause=800&width=220&height=30&lines=Web+Developer;Mobile+Developer;Software+Developer" alt="Typing SVG"/>
 </p>
 
-<p>I am currently pursuing a degree in Computer Engineering while also working as a backend developer. My expertise lies in website development, building, and customization, where I strive to create seamless and user-friendly experiences.</p>
+<p>A dedicated Web developer driven by a profound passion for software craftsmanship. My expertise lies in website development, building, and customization, where I strive to create seamless and user-friendly experiences.</p>
 
 
 ### 👨‍💻 Currently doing the following: 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:mohanad.salkini@gmail.com)
 [![Website](./--website.svg)](https://muhannad.salkini.me)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhannad-salkini-1971751a5)
-[![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/muhannad.salkini)
+<!--[![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/muhannad.salkini)-->
 
 
 ## 💻 Languages and Tools:
