@@ -86,18 +86,3 @@ I enjoy solving complex problems, optimizing systems, and delivering products th
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Next.js patterns  
-- AI agent orchestration & workflows  
-- Distributed systems & backend architecture  
-- Cloud infrastructure & container-based deployments  
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out for collaborations, discussions, or new opportunities.
-
----
-
