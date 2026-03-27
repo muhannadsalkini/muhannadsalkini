@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&center=true&vCenter=true&pause=800&width=435&lines=Full+Stack+Developer;Software+Engineer;Solution+Builder" alt="Typing SVG"/>
   
   [![E-Mail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mohanad.salkini@gmail.com)
-  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://muhannad.salkini.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhannad-salkini-1971751a5)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhannadsalkini)
 </div>
 
 ---
