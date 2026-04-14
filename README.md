@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 Full-Stack Engineer with 4+ years of experience building solutions using TypeScript, Node.js, and Next.js. Specialized in AI integrations, real-time systems, and cloud-based architectures. Experienced in developing high-performance APIs, modern user interfaces, and distributed systems.
 
@@ -21,17 +21,3 @@ Full-Stack Engineer with 4+ years of experience building solutions using TypeScr
 - Building modular full-stack features with **Next.js + TypeScript**
 - Backend architecture, real-time communication, and API design
 - Working with relational & non-relational databases
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-two-xi-87.vercel.app/api?username=muhannadsalkini&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhannadsalkini&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
----
-
