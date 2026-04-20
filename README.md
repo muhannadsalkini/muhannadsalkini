@@ -9,13 +9,13 @@
 
 ## 👨‍💻 About
 
-Full-Stack Engineer with 4+ years of experience building solutions using TypeScript, Node.js, and Next.js. Specialized in AI integrations, real-time systems, and cloud-based architectures. Experienced in developing high-performance APIs, modern user interfaces, and distributed systems.
+Full-Stack Engineer with 3+ years of experience building solutions using TypeScript, Node.js, and Next.js. Specialized in AI integrations, real-time systems, and cloud-based architectures. Experienced in developing high-performance APIs, modern user interfaces, and distributed systems.
 
 ---
 
 ## 🔭 Current Focus
 
 - AI agent integrations (Langchain, LLM pipelines)
-- Building full-stack features with **Next.js + TypeScript**
+- Building full-stack features with TypeScript**
 - Backend architecture, real-time communication, and API design
 - Working with relational & non-relational databases
