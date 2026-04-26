@@ -16,6 +16,5 @@ Full-Stack Engineer with 3+ years of experience building solutions using TypeScr
 ## 🔭 Current Focus
 
 - AI agent integrations (Langchain, LLM pipelines)
-- Building full-stack features with TypeScript**
+- Building full-stack features with TypeScript
 - Backend architecture, real-time communication, and API design
-- Working with relational & non-relational databases
