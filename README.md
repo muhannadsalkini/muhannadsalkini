@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About
 
-Full Stack AI Engineer with 3+ years of experience building AI-powered production products using TypeScript, Node.js, Next.js, Python, and FastAPI. Specialized in AI agents, multi-tenant SaaS, and real-time systems.
+Full Stack AI Engineer with 3+ years of experience building and shipping production AI products in TypeScript and Python: a white-label AI agent building platform with real-time voice, multi-tenant SaaS, and agentic developer tools. Strong background in backend architecture and data security, including PostgreSQL RLS, RBAC and GDPR/KVKK compliance. Co-founder of [Tently](https://www.tently.dev), an AI code reviewer for agent-written code.
 
 ---
 
@@ -18,4 +18,4 @@ Full Stack AI Engineer with 3+ years of experience building AI-powered productio
 
 - AI agents and LLM features in production (Vercel AI SDK, MCP, RAG)
 - Multi-tenant SaaS with Python, FastAPI, and PostgreSQL RLS
-- Building Tently: AI code review that catches regressions and decision drift
+- Building [Tently](https://www.tently.dev): an AI code reviewer for agent-written code, with an [open-source MCP server](https://github.com/tently-team/tently-mcp) for Claude Code and Cursor
